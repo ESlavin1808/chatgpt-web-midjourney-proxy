@@ -214,11 +214,11 @@ MIT © [Dooy](./license)
 <br> `Укажите ваши контактные данные в примечании к платежу`
 <div style="display: flex; flex-wrap: wrap">
     <div style="width:200px">
-        <img src="./docs/wxpay.jpg"  style="width:200px">
+        <img src="."  style="width:200px">
         <div>Пожертвование через WeChat</div>
     </div>
     <div style="width:200px">
-        <img src="./docs/alipay.jpg"  style="width:200px"> 
+        <img src="."  style="width:200px"> 
         <div>Пожертвование через Alipay</div>
     </div>
 </div>
